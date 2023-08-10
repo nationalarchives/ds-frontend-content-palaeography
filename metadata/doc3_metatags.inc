@@ -1,0 +1,4 @@
+<meta name="DC.subject" content="Armada, Spanish, James Machary, Lord Deputy of Ireland, William Fitzwilliam, Sir Francis Walsingham, Secretary of State, press-ganged, Portugal, Don Alonso de Leva, secretary hand, palaeography, transcribing, old handwriting" />
+<meta name="DC.Description" content="This document is the examination of James Machary regarding his enforced service with the Spanish Armada, dated 29 December 1588. Macharys statement was made before the Lord Deputy of Ireland, William Fitzwilliam." />
+<meta name="Description" content="Palaeography tutorial - transcribing document 3" />
+<meta name="keywords" content="Armada, Spanish, James Machary, Lord Deputy of Ireland, William Fitzwilliam, Sir Francis Walsingham, Secretary of State, press-ganged, Portugal, Don Alonso de Leva, secretary hand, palaeography, transcribing, old handwriting" />

@@ -1,0 +1,4 @@
+<meta name="DC.subject" content ="hearth tax, hearth tax return, taxation, Besselsleigh, Berkshire, tithingman, tithe, palaeography, handwriting, English handwriting, transcribing, old handwriting" />
+<meta name="DC.Description" content="This document is the hearth tax return for Besselsleigh, Berkshire, dated 1664.The restoration of Charles II in 1660 was followed by the introduction of several new taxes, including the hearth tax." />
+<meta name="Description" content="Palaeography tutorial - transcribing document 8" />
+<meta name=”keywords” content ="hearth tax, hearth tax return, taxation, Besselsleigh, Berkshire, tithingman, tithe, palaeography, handwriting, English handwriting, transcribing, old handwriting" />

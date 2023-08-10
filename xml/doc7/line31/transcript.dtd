@@ -1,0 +1,7 @@
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT docref (#PCDATA)>
+<!ATTLIST docref number NMTOKEN #IMPLIED>
+<!ELEMENT line (#PCDATA)>
+<!ATTLIST line number NMTOKEN #REQUIRED>
+<!ELEMENT transcript (title, docref+, line*)>
+<!ATTLIST transcript number NMTOKEN #IMPLIED>

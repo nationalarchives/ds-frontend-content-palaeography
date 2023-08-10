@@ -1,0 +1,5 @@
+<meta name="DC.subject" content="Palaeography tutorial - transcribing document 2" />
+<meta name="keywords" content="Thomas Pike, will, ecclesiastical document, church courts, proved, granting a probate, probate, cursive, currere, italic, probate clause, Prerogative courts of Canterbury, PCC, shipwright palaeography, transcribing, old handwriting" />
+<meta name="DC.Description" content="This document is the registered probate copy of the will of Thomas Pike, a shipwright, dated 15 February 1722/3. Wills were recognised as ecclesiastical documents because of commending the soul to God, and had to be presented in church courts to prove that they really were the last wishes of the deceased in relation to the disposal of their lands and possessions." />
+<meta name="Description" content="Palaeography tutorial - transcribing document 2" />
+<meta name="keywords" content="Thomas Pike, will, ecclesiastical document, church courts, proved, granting a probate, probate, cursive, currere, italic, probate clause, Prerogative courts of Canterbury, PCC, shipwright palaeography, transcribing, old handwriting" />

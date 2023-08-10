@@ -1,0 +1,4 @@
+<meta name="DC.subject" content="document, transcribing, learn, tips, exercise, image, handwriting, italic, Renaissance, Thomas Wyatt, Tower of London, Woodstock, Hatfield, princess Elizabeth, Mary I, Tower of London, palaeography, transcribing, old handwriting" />
+<meta name="DC.Description" content="This document is a letter dated 16 March 1554 from Elizabeth I, as princess, to her sister Queen Mary I. The handwriting is in a style called italic, the forerunner of modern handwriting styles. It is easier for us to read than the handwriting used by many of Elizabeths contemporaries." />
+<meta name="Description" content="Palaeography tutorial - transcribing document 1" />
+<meta name="keywords" content="document, transcribing, learn, tips, interactive, exercise, image, handwriting, italic, Renaissance, Thomas Wyatt, Tower of London, Woodstock, Hatfield, princess Elizabeth, Mary I, Tower of London, palaeography, transcribing, old handwriting" />
